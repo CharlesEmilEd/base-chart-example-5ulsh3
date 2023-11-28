@@ -1,0 +1,23 @@
+{
+  "name": "base-chart-example-vnyejs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "highcharts": "^11.2.0",
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-jsx-highcharts": "^5.0.1",
+    "react-jsx-highstock": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
